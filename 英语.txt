@@ -1,0 +1,38 @@
+disabled	[dIs'ebld]			使…失去能力（disable的过去分词）
+
+parser		[pɑrs?]				[计] 分析程序；语法剖析程式
+
+options		['ɑp??nz]			选择；期权；[计] 选择项（option的复数）
+
+checkout						检出
+
+commmit							提交
+
+install							安装
+
+synchronized(色坤奶死特)		同步
+
+lock							锁
+
+wait							等待
+
+sleep							睡觉
+
+notify							
+
+Sorted(色我第特)				排序
+
+protected						保护
+
+friendly						友好
+
+transient						临时的
+
+volatile						易变的
+
+thread							线
+
+reader							读
+
+writer							写
+
